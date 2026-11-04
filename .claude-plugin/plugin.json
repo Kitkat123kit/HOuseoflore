@@ -1,0 +1,8 @@
+{
+  "name": "house-of-lore",
+  "version": "0.1.0",
+  "description": "Social and marketing content for House of Lore med spa (Athens, GA): on-brand posts, Reels, SMS campaigns, keyword funnels, and content calendars with med-spa compliance built in.",
+  "author": { "name": "Katie Nichols" },
+  "repository": "https://github.com/Kitkat123kit/HOuseoflore",
+  "keywords": ["med spa", "marketing", "social media", "sms", "content calendar"]
+}
